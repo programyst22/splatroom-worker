@@ -1,0 +1,13 @@
+{
+  "input": {
+    "job_id": "00000000-0000-0000-0000-000000000001",
+    "project_id": "00000000-0000-0000-0000-000000000002",
+    "input_url": "https://example.invalid/capture.mp4",
+    "original_name": "capture.mp4",
+    "output_path": "test/project/scene.ply",
+    "callback_url": "https://example.invalid/functions/v1/worker-callback",
+    "callback_token": "replace-me",
+    "num_frames_target": 300,
+    "max_num_iterations": 30000
+  }
+}
