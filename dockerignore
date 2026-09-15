@@ -1,0 +1,14 @@
+.git
+.github
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+workspace
+outputs
+exports
+*.mp4
+*.mov
+*.ply

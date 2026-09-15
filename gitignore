@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+workspace/
+outputs/
+exports/
+*.mp4
+*.mov
+*.ply
